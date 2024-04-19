@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'frontendAngular';
+  title = 'Angular 14 with Spring Boot and DynamoDB Atlas';
 }
